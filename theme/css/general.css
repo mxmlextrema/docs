@@ -16,7 +16,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     overflow-x: hidden;
 }
 
@@ -56,6 +56,18 @@ h4, h5 { margin-block-start: 2em; }
 
 h1, h2, h3 {
     font-weight: 100;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
 }
 
 .header + .header h3,

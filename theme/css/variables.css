@@ -9,7 +9,7 @@
     --content-max-width: 750px;
     --menu-bar-height: 50px;
     --mono-font: "Courier Prime", "Courier New";
-    --code-font-size: 0.73em /* please adjust the ace font size accordingly in editor.js */
+    --code-font-size: 0.9em /* please adjust the ace font size accordingly in editor.js */
 }
 
 /* Themes */
@@ -18,8 +18,8 @@
     --bg: hsl(0, 0%, 100%);
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #001570;
-    --sidebar-fg: #fff;
+    --sidebar-bg: #bdbdbd;
+    --sidebar-fg: #000;
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
     --sidebar-spacer: #f4f4f4;
@@ -62,13 +62,14 @@
     --bg: hsl(226, 23%, 11%);
     --fg: #bcbdd0;
 
-    --sidebar-bg: #001570;
-    --sidebar-fg: #fff;
+    --sidebar-bg: #bdbdbd;
+    --sidebar-fg: #000;
     --sidebar-non-existant: #505274;
     --sidebar-active: #2b79a2;
     --sidebar-spacer: #2d334f;
 
     --scrollbar: var(--sidebar-fg);
+    --scrollbar-track: #333;
 
     --icons: #737480;
     --icons-hover: #b7b9cc;
