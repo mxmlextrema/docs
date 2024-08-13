@@ -1,7 +1,7 @@
 # MXMLExtrema
 
-MXMLC as part of MXMLExtrema provides an enhanced compiler infrastructure for the Adobe AIR software development kit.
+MXMLC as part of MXMLExtrema provides an enhanced compiler infrastructure for the languages ActionScript 3 and MXML and the CSS3 subset present in Adobe Flex.
 
-MXMLShare represents a package manager for Adobe AIR and its native extensions.
+## Dependencies
 
-For contributors, it requires no setup other than the Rust systems language.
+MXMLExtrema depends in the Rust systems language.

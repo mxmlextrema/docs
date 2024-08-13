@@ -7,7 +7,7 @@ package
 {
     import chief.skins.*;
 
-    [SkinSheet(source="style.css")]
+    [Stylesheet(source="style.css")]
     public class RockTheme extends Theme
     {
     }
